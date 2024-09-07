@@ -1,0 +1,5 @@
+Proceso 2 ejecutado completamente. TC: 20, TAT: 18, WT: 16
+Proceso 3 ejecutado completamente. TC: 28, TAT: 24, WT: 22
+Proceso 1 ejecutado completamente. TC: 32, TAT: 32, WT: 30
+Proceso 4 ejecutado completamente. TC: 36, TAT: 30, WT: 28
+No hay mas procesos en la cola de listos.
